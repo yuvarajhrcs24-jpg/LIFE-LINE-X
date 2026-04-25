@@ -1,0 +1,17 @@
+{
+  "app": { "name": "लाइफ-लाइन-X", "tagline": "आपदा प्रबंधन प्रणाली" },
+  "nav": { "home": "होम", "map": "नक्शा", "resources": "संसाधन", "requests": "अनुरोध", "volunteers": "स्वयंसेवक", "chat": "चैट", "analytics": "विश्लेषण", "preparedness": "तैयारी", "history": "इतिहास", "settings": "सेटिंग्स", "profile": "प्रोफाइल" },
+  "sos": { "button": "SOS", "sending": "SOS भेजा जा रहा है...", "sent": "SOS भेजा गया!", "cancel": "रद्द करें", "description": "अपना स्थान और आपातकालीन अलर्ट भेजने के लिए दबाएं", "confirm": "SOS अलर्ट की पुष्टि करें?" },
+  "auth": { "login": "लॉगिन", "register": "पंजीकरण", "email": "ईमेल", "password": "पासवर्ड", "name": "पूरा नाम", "role": "भूमिका चुनें", "roles": { "citizen": "नागरिक", "volunteer": "स्वयंसेवक", "authority": "प्राधिकरण" }, "logout": "लॉगआउट", "noAccount": "खाता नहीं है? पंजीकरण करें", "hasAccount": "खाता है? लॉगिन करें" },
+  "requests": { "title": "आपातकालीन अनुरोध", "new": "नया अनुरोध", "priority": "प्राथमिकता", "status": "स्थिति", "type": "प्रकार", "description": "विवरण", "high": "उच्च", "medium": "मध्यम", "low": "निम्न", "pending": "लंबित", "accepted": "स्वीकृत", "inProgress": "प्रगति में", "resolved": "हल किया" },
+  "resources": { "title": "नज़दीकी संसाधन", "add": "संसाधन जोड़ें", "available": "उपलब्ध", "limited": "सीमित", "unavailable": "अनुपलब्ध", "food": "भोजन", "shelter": "आश्रय", "medical": "चिकित्सा", "water": "पानी", "km": "किमी दूर" },
+  "volunteers": { "title": "स्वयंसेवक", "register": "स्वयंसेवक के रूप में पंजीकरण", "skills": "कौशल", "available": "उपलब्ध", "unavailable": "अनुपलब्ध", "assign": "कार्य सौंपें" },
+  "chat": { "title": "चैट", "send": "भेजें", "placeholder": "संदेश लिखें...", "channels": "चैनल", "general": "सामान्य" },
+  "ai": { "title": "AI सहायक", "placeholder": "अपनी आपात स्थिति बताएं...", "analyze": "विश्लेषण करें", "type": "आपातकाल प्रकार", "guidance": "सुरक्षा मार्गदर्शन", "safeZone": "निकटतम सुरक्षित क्षेत्र" },
+  "offline": { "banner": "आप ऑफलाइन हैं। क्रियाएं कतारबद्ध होंगी।", "queue": "कतारबद्ध क्रियाएं", "sync": "अभी सिंक करें" },
+  "settings": { "title": "सेटिंग्स", "language": "भाषा", "darkMode": "डार्क मोड", "accessibility": "सुगम्यता मोड", "battery": "बैटरी बचत मोड", "firebase": "Firebase कॉन्फ़िगर करें", "simulation": "सिमुलेशन मोड" },
+  "analytics": { "title": "संकट विश्लेषण", "totalRequests": "कुल अनुरोध", "resolved": "हल किए गए", "volunteers": "सक्रिय स्वयंसेवक", "resources": "संसाधन" },
+  "preparedness": { "title": "तैयारी", "checklist": "आपातकालीन चेकलिस्ट", "simulation": "सिमुलेशन मोड", "add": "आइटम जोड़ें" },
+  "trust": { "score": "विश्वास स्कोर", "verify": "सत्यापित करें", "report": "नकली रिपोर्ट करें" },
+  "common": { "loading": "लोड हो रहा है...", "error": "त्रुटि", "save": "सहेजें", "cancel": "रद्द करें", "confirm": "पुष्टि करें", "back": "वापस", "submit": "जमा करें", "search": "खोजें", "filter": "फ़िल्टर", "close": "बंद करें", "delete": "हटाएं", "edit": "संपादित करें" }
+}
