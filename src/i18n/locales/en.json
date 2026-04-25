@@ -1,0 +1,17 @@
+{
+  "app": { "name": "LIFE-LINE-X", "tagline": "Disaster Management System" },
+  "nav": { "home": "Home", "map": "Map", "resources": "Resources", "requests": "Requests", "volunteers": "Volunteers", "chat": "Chat", "analytics": "Analytics", "preparedness": "Preparedness", "history": "History", "settings": "Settings", "profile": "Profile" },
+  "sos": { "button": "SOS", "sending": "Sending SOS...", "sent": "SOS Sent!", "cancel": "Cancel", "description": "Press to send emergency alert with your location", "confirm": "Confirm SOS Alert?" },
+  "auth": { "login": "Login", "register": "Register", "email": "Email", "password": "Password", "name": "Full Name", "role": "Select Role", "roles": { "citizen": "Citizen", "volunteer": "Volunteer", "authority": "Authority" }, "logout": "Logout", "noAccount": "No account? Register", "hasAccount": "Have an account? Login" },
+  "requests": { "title": "Emergency Requests", "new": "New Request", "priority": "Priority", "status": "Status", "type": "Type", "description": "Description", "high": "High", "medium": "Medium", "low": "Low", "pending": "Pending", "accepted": "Accepted", "inProgress": "In Progress", "resolved": "Resolved" },
+  "resources": { "title": "Nearby Resources", "add": "Add Resource", "available": "Available", "limited": "Limited", "unavailable": "Unavailable", "food": "Food", "shelter": "Shelter", "medical": "Medical", "water": "Water", "km": "km away" },
+  "volunteers": { "title": "Volunteers", "register": "Register as Volunteer", "skills": "Skills", "available": "Available", "unavailable": "Unavailable", "assign": "Assign Task" },
+  "chat": { "title": "Chat", "send": "Send", "placeholder": "Type a message...", "channels": "Channels", "general": "General" },
+  "ai": { "title": "AI Assistant", "placeholder": "Describe your emergency...", "analyze": "Analyze", "type": "Emergency Type", "guidance": "Safety Guidance", "safeZone": "Nearest Safe Zone" },
+  "offline": { "banner": "You are offline. Actions will be queued.", "queue": "Queued Actions", "sync": "Sync Now" },
+  "settings": { "title": "Settings", "language": "Language", "darkMode": "Dark Mode", "accessibility": "Accessibility Mode", "battery": "Battery Saver Mode", "firebase": "Configure Firebase", "simulation": "Simulation Mode" },
+  "analytics": { "title": "Crisis Analytics", "totalRequests": "Total Requests", "resolved": "Resolved", "volunteers": "Active Volunteers", "resources": "Resources" },
+  "preparedness": { "title": "Preparedness", "checklist": "Emergency Checklist", "simulation": "Simulation Mode", "add": "Add Item" },
+  "trust": { "score": "Trust Score", "verify": "Verify", "report": "Report Fake" },
+  "common": { "loading": "Loading...", "error": "Error", "save": "Save", "cancel": "Cancel", "confirm": "Confirm", "back": "Back", "submit": "Submit", "search": "Search", "filter": "Filter", "close": "Close", "delete": "Delete", "edit": "Edit" }
+}
